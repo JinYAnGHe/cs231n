@@ -1,1 +1,1 @@
-# cs231n assignments
+# notebook for cs231n
